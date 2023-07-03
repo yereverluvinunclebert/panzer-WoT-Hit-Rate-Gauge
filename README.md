@@ -6,7 +6,7 @@ as well as the Apple Mac sierra + operating systems.
 
 ![panzer-hitrate750](https://github.com/yereverluvinunclebert/panzer-WoT-Hit-Rate-Gauge/assets/2788342/986ee9e5-271f-460b-8f29-729de0d077a4)
 
-A Dieselpunk Wireless widget. - I created for the World of Tanks and War Thunder 
+A Dieselpunk Hit Rate widget - I created for the World of Tanks and War Thunder 
 communities.This Panzer widget is a simple Hit Rate gauge. Functional 
 and gorgeous at the same time. The graphics are my own, I took original 
 inspiration from a clock face by Italo Fortana. It is mostly my code with some 
