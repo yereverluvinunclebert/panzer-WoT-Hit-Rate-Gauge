@@ -95,6 +95,33 @@ Tested on :
  menubar item should appear. Widgets can then be started from the menubar or by 
  double-clicking on the KON file in the usual way.
  
+ 
+Configuration:
+ 
+ Enter your username and numeric user ID (if you know it) when prompted.
+ 
+ First issue: You will need your numeric user ID. You can get that from here:
+ https://www.deviantart.com/users/outgoing?https://worldoftanks.com/en/community/accounts/#wot&at_search=
+ Just enter your own username into the field there and hit enter.
+ 
+ eg. https://www.deviantart.com/users/outgoing?https://worldoftanks.com/en/community/accounts/#wot&at_search=yereverluvinunclebert
+ 
+ When you hit return, on the browser page that just opened, click on your 
+ username (in green) where it says "battles, victories, experience"
+ 
+ > yereverluvinunclebert < 16,688 55.17% 5,694,590
+ 
+ and on the resulting page in the URL bar at the top you will see your user ID. 
+ It will be something like:
+ 
+ https://www.deviantart.com/users/outgoing?https://worldoftanks.com/en/community/accounts/1003670189-yereverluvinunclebert/
+ 
+ - Type the number you find here (eg. 1003670189)
+ 
+ That is your user ID, type it into the widget and hit Enter. If it is a valid 
+ ID then after a few seconds the gauge will obtain and register your win rate 
+ and indicate your noobness/unicumness.
+ 
 
  LICENCE AGREEMENTS:
  
