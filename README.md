@@ -9,8 +9,7 @@ as well as the Apple Mac sierra + operating systems.
 A Dieselpunk Hit Rate widget - I created for the World of Tanks and War Thunder 
 communities.This Panzer widget is a simple Hit Rate gauge. Functional 
 and gorgeous at the same time. The graphics are my own, I took original 
-inspiration from a clock face by Italo Fortana. It is mostly my code with some 
-solid help from Harry Whitfield. 
+inspiration from a clock face by Italo Fortana. 
 
 ![Default](https://github.com/yereverluvinunclebert/panzer-WoT-Hit-Rate-Gauge/assets/2788342/8d892499-eeeb-4b9b-a39a-23fbe8cdcff4)
 
@@ -38,7 +37,8 @@ Built using:
 
 	RJTextEd Advanced Editor  https://www.rj-texted.se/ 
 	Adobe Photoshop CS ver 8.0 (2003)  https://www.adobe.com/uk/products/photoshop/free-trial-download.html  
-
+	Yahoo widgets SDK: runtime, debugger and documentation  
+  
 Tested on :
 
 	ReactOS 0.4.14 32bit on virtualBox    
