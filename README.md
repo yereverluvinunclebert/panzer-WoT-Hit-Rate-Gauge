@@ -33,13 +33,6 @@ provide.
 
 ![tank-help-750](https://github.com/yereverluvinunclebert/panzer-WoT-Hit-Rate-Gauge/assets/2788342/168c2951-30c4-498b-ac73-bc07a5588f61)
 
-
-This widget was created with the serious coding skills of Harry Whitfield. I 
-supplied the graphics, the original code, the concept and idea and steered the 
-widget toward its final goal. I also tested the widget, added extra 
-functionality and fettled the code for release. Harry built the core 
-functionality to my spec. but just did it far better than I would ever have 
-done!
  
 Built using: 
 
