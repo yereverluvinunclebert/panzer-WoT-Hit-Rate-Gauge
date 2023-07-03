@@ -4,7 +4,7 @@ Dieselpunk Desktop World of Tanks Hit Rate widget, written in Javascript and XML
 for the Yahoo Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ 
 as well as the Apple Mac sierra + operating systems.
 
-
+![panzer-hitrate750](https://github.com/yereverluvinunclebert/panzer-WoT-Hit-Rate-Gauge/assets/2788342/986ee9e5-271f-460b-8f29-729de0d077a4)
 
 A Dieselpunk Wireless widget. - I created for the World of Tanks and War Thunder 
 communities.This Panzer widget is a simple Hit Rate gauge. Functional 
@@ -12,6 +12,7 @@ and gorgeous at the same time. The graphics are my own, I took original
 inspiration from a clock face by Italo Fortana. It is mostly my code with some 
 solid help from Harry Whitfield. 
 
+![Default](https://github.com/yereverluvinunclebert/panzer-WoT-Hit-Rate-Gauge/assets/2788342/8d892499-eeeb-4b9b-a39a-23fbe8cdcff4)
 
 To find out how the widget operates, simply right click and select Help and a 
 full explanation of all the buttons and windows is shown. Hovering over any 
@@ -29,6 +30,8 @@ All javascript widgets need an engine to function, in this case the widget uses
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
 creates the widget according to the XML description and using the images you 
 provide. 
+
+![tank-help-750](https://github.com/yereverluvinunclebert/panzer-WoT-Hit-Rate-Gauge/assets/2788342/168c2951-30c4-498b-ac73-bc07a5588f61)
 
 
 This widget was created with the serious coding skills of Harry Whitfield. I 
@@ -111,5 +114,6 @@ Tested on :
  With regard to the commercial use of incorporated images, permission and a
  licence would need to be obtained from the original owner and creator, ie. me.
  
+![about](https://github.com/yereverluvinunclebert/panzer-WoT-Hit-Rate-Gauge/assets/2788342/160f7eef-21bd-4994-910c-a7c4f08016a1)
 
 
