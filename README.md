@@ -7,26 +7,23 @@ as well as the Apple Mac sierra + operating systems.
 
 
 A Dieselpunk Wireless widget. - I created for the World of Tanks and War Thunder 
-communities.This Panzer widget is a simple wireless strength gauge. Functional 
+communities.This Panzer widget is a simple Hit Rate gauge. Functional 
 and gorgeous at the same time. The graphics are my own, I took original 
 inspiration from a clock face by Italo Fortana. It is mostly my code with some 
 solid help from Harry Whitfield. 
 
 
 To find out how the widget operates, simply right click and select Help and a 
-full explanation of all the buttons, windows is shown. The top left window is 
-the current signal in digital form. The bottom right window is the bandwidth 
-used.
-
-
-The middle button selects the wireless device. Hovering over any control should 
-supply a pop-up explaining each function.
+full explanation of all the buttons and windows is shown. Hovering over any 
+control should supply a pop-up explaining each function.
 
 Right clicking will bring up a menu of options. Double-clicking on the widget 
 will cause a personalised Windows application to fire up. The first time you run 
 it there will be no assigned function and so it will state as such and then pop 
 up the preferences so that you can enter the command of your choice. The widget 
 takes command line-style commands for windows. 
+
+![yahoo-logo-small_111](https://github.com/yereverluvinunclebert/Steampunk-MediaPlayer-Ywidget/assets/2788342/c5668608-ab57-4665-a332-3bc9b7e07a9f)
 
 All javascript widgets need an engine to function, in this case the widget uses 
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
