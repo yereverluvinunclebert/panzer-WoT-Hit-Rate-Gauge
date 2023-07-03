@@ -119,9 +119,9 @@ Configuration with World of Tanks
  
  - Type the number you find here (eg. 1003670189)
  
- That is your user ID, type it into the widget and hit Enter. If it is a valid 
- ID then after a few seconds the gauge will obtain and register your win rate 
- and indicate your noobness/unicumness.
+ That is your user ID. Open the widget Preferences, type it into the widget and 
+ hit Enter. If it is a valid ID then after a few seconds the gauge will obtain 
+ and register your win rate and indicate your noobness/unicumness.
  
 
  LICENCE AGREEMENTS:
