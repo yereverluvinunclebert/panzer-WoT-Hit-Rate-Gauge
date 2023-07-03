@@ -96,8 +96,9 @@ Tested on :
  double-clicking on the KON file in the usual way.
  
  
-Configuration:
- 
+Configuration with World of Tanks
+  ========================================================
+  
  Enter your username and numeric user ID (if you know it) when prompted.
  
  First issue: You will need your numeric user ID. You can get that from here:
